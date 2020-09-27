@@ -1,0 +1,1 @@
+DELETE FROM `0_sys_prefs` WHERE `name` = 'tcpdf_plugin' AND category = 'setup.extentions';

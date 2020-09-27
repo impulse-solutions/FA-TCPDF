@@ -1,0 +1,1 @@
+INSERT INTO `0_sys_prefs` (`name`, `category`, `type`, `length`, `value`) VALUES ('tcpdf_plugin', 'setup.extentions', 'tinyint', '1', '1');
